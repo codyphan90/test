@@ -22,4 +22,7 @@ setTimeout(function() {
     for(let x of array){
     console.log(x);
 };
-}, 3000); 
+}, 3000);
+//this is test
+//this is test2
+//this is test03

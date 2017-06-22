@@ -4,7 +4,7 @@
   "description": "test nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"This is test  command \" && exit 1",
+    "test": "echo \"This is test 01 command \" && exit 1",
     "start": "babel-node babel.js"
   },
   "author": "",
